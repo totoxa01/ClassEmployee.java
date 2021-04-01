@@ -29,19 +29,22 @@ public class WorkClass {
 
         try {
             System.out.println(ConvertClass.massConvert(massFaslConvert));
-        } catch (ExceptionCustom e) {
+        }
+        catch (ExceptionCustom e) {
             System.err.println(e.getMessage());
         }
 
         try {
             System.out.println(ConvertClass.massConvert(massNotColumn));
-        } catch (ExceptionCustom e) {
+        }
+        catch (ExceptionCustom e) {
             System.err.println(e.getMessage());
         }
 
         try {
             System.out.println(ConvertClass.massConvert(massTrueSumm));
-        } catch (ExceptionCustom e) {
+        }
+        catch (ExceptionCustom e) {
             System.err.println(e.getMessage());
         }
     }

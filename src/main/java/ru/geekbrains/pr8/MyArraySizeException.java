@@ -8,6 +8,6 @@ package ru.geekbrains.pr8;
  */
 public class MyArraySizeException extends ExceptionCustom{
     public MyArraySizeException(){
-        super("Массив должен быть 4x4");
+        super("Массив должен быть 4 на 4");
     }
 }

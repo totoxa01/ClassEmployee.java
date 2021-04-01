@@ -7,7 +7,7 @@ package ru.geekbrains.pr8;
  * Create 01.04.2021
  */
 public class ExceptionCustom extends Exception{
-    public ExceptionCustom(String message){
-        super(message);
+    public ExceptionCustom(String msg){
+        super(msg);
     }
 }
