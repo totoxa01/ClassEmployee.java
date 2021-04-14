@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e88938f-e374-40a6-81e2-82f9ce8752ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/lesson9/DatabaseExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr10/ClassArraySetOfWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr10/ClassPhoneBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr10/ClassWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr11/ClassConvertingAnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr11/ClassSwapsTheElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr11/ClassWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr6/AbstractBowl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr6/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr6/CatBowl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr6/Classwork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/ClassWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/Obstacle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/Participants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/Robot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/Treadmill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr7/pr7.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr8/ConvertClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr8/ExceptionCustom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr8/MyArrayDataException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr8/MyArraySizeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr8/WorkClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr9/WorkingClassCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr9/cat/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/pr9/cat/CreateTableCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/ClassEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/Output.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/TicTacToe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/practicalWork4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${project.build.directory}/classes/ru/geekbrains/practicalWork3/practicalWork5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/pr11/ClassConvertingAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/pr11/ClassSwapsTheElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/pr11/ClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/pr11/Task/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/pr11/Task/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/pr11/Task/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/pr11/Task/Orange.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/totoxa01/pr7.java" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pZeUvv1P2evJNDykQPa4UBfmrp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.ClassWork (2)">
+    <configuration name="ClassArraySetOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.pr10.ClassArraySetOfWords" />
+      <module name="practical_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.pr10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassWork (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.pr10.ClassWork" />
+      <module name="practical_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.pr10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassWork (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.pr11.ClassWork" />
+      <module name="practical_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.pr11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassWork" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.pr7.ClassWork" />
+      <module name="practical_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.pr7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassWorking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.pr10.ClassWorking" />
+      <module name="practical_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.pr10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingClassCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.pr9.WorkingClassCat" />
+      <module name="practical_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.pr9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practicalWork5" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.practicalWork3.practicalWork5" />
+      <module name="practical_work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.practicalWork3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClassWork (2)" />
+        <item itemvalue="Application.ClassWork (1)" />
+        <item itemvalue="Application.ClassWorking" />
+        <item itemvalue="Application.ClassArraySetOfWords" />
+        <item itemvalue="Application.WorkingClassCat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e88938f-e374-40a6-81e2-82f9ce8752ce" name="Default Changelist" comment="" />
+      <created>1615395062394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615395062394</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Практическая работа №7">
+      <created>1617259464127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617259464127</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Практическая работа №8">
+      <created>1617259680690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617259680690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 9">
+      <created>1617453981441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617453981441</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Практическая работа № 9">
+      <created>1617454035009</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617454035009</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Практическая работа № 10">
+      <created>1617994905657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617994905657</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Практическая работа № 10 (доработка)">
+      <created>1617995222032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617995222032</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Практическая работа №7" />
+    <MESSAGE value="Практическая работа №8" />
+    <MESSAGE value="lesson 9" />
+    <MESSAGE value="Практическая работа № 9" />
+    <MESSAGE value="Практическая работа № 10 задание 1" />
+    <MESSAGE value="Практическая работа № 10" />
+    <MESSAGE value="Практическая работа № 10 (доработка)" />
+    <MESSAGE value="Практическая работа № 11&#10;Не смогла сделать 9 пункт задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="Практическая работа № 11&#10;Не смогла сделать 9 пункт задания" />
+  </component>
+</project>
